@@ -10,3 +10,7 @@ const (
 	MethodKeywordProcedureGetKeywords        = "SerpstatKeywordProcedure.getKeywords"
 	MethodKeywordProcedureGetRelatedKeywords = "SerpstatKeywordProcedure.getRelatedKeywords"
 )
+
+const (
+	MethodBacklinksProcedureGetSummaryV2 = "SerpstatBacklinksProcedure.getSummaryV2"
+)
